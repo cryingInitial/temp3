@@ -1,0 +1,5 @@
+./ex.sh: 29: [: cifar100: unexpected operator
+./ex.sh: 37: [: cifar100: unexpected operator
+./ex.sh: 45: [: cifar100: unexpected operator
+./ex.sh: 53: [: cifar100: unexpected operator
+Undefined setting
